@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeeptanshuKumarBehera
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning c++ and java
+- 🌱 I’m currently learning full stack development 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me deeptanshukbehera47@gmail.com
 
